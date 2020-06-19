@@ -31,3 +31,7 @@ Underline 2
 - <a href="http//google.com">Esto es un link html</a>
 - [Esto es un link en markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://www.muycomputerpro.com/wp-content/uploads/2019/12/GitHub_en_China.jpg)
+
