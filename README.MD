@@ -86,4 +86,15 @@ Este texto refiere a una cita que pondemos debajo
 > Esto es una cita.
 
 Esto es otro texto no relacional al anterior por el espacio intermedio.
-> Esto es otra cita
+> Esto es otra cita.
+
+# Lineas Divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
