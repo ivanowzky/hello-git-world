@@ -80,3 +80,10 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Ivan | Franco | 696969696 |
 | Danin | Franco | 697967697 |
+
+# Citas
+Este texto refiere a una cita que pondemos debajo
+> Esto es una cita.
+
+Esto es otro texto no relacional al anterior por el espacio intermedio.
+> Esto es otra cita
